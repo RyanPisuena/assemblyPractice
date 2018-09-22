@@ -6,7 +6,8 @@ author: .asciiz "Author: Ryan Pisuena\n\n\t"
 
 creationDueDate: .asciiz "Due Date: 9/10/2018\n\n\t"
 
-num: .asciiz "Welcome to basic calculator! Please input two numbers for us to perform addition, subtraction, division and multiplication: \n "
+num: .asciiz "Welcome
+to basic calculator! Please input two numbers for us to perform addition, subtraction, division and multiplication: \n "
 
 sum: .asciiz "\nYour sum comes out to be: "
 
